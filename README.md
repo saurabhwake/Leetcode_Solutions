@@ -17,10 +17,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -41,4 +44,12 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+## String
+|  |
+| ------- |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+## Counting
+|  |
+| ------- |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 <!---LeetCode Topics End-->
