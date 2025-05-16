@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0898-transpose-matrix](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sliding Window
 |  |
@@ -52,4 +53,12 @@
 |  |
 | ------- |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
