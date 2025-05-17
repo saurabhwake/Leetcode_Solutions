@@ -7,6 +7,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0643-maximum-average-subarray-i](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0898-transpose-matrix](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -40,6 +41,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
