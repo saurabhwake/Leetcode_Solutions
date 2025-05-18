@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Recursion
 |  |
