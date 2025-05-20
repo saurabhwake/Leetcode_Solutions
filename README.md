@@ -24,6 +24,7 @@
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3321-type-of-triangle](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0415-add-strings](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Counting
 |  |
@@ -74,6 +76,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 ## Two Pointers
 |  |
