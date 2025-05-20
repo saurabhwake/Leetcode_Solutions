@@ -61,6 +61,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Counting
 |  |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 ## Prefix Sum
 |  |
 | ------- |
