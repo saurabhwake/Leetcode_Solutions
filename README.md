@@ -15,6 +15,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3639-zero-array-transformation-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Sliding Window
 |  |
 | ------- |
