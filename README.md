@@ -7,6 +7,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0643-maximum-average-subarray-i](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0898-transpose-matrix](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
@@ -46,6 +47,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Sorting
@@ -72,6 +74,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
