@@ -17,6 +17,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Sliding Window
 |  |
@@ -56,6 +57,7 @@
 | [0075-sort-colors](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -90,4 +92,13 @@
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3647-zero-array-transformation-iii) |
+## Greedy
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3647-zero-array-transformation-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/saurabhwake/Leetcode_Solutions/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
